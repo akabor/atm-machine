@@ -5,7 +5,7 @@ This application simmulates an ATM machine, allowing the user to make deposits a
 
 ## Installation
 
-Download all files to the same location on your computer. Navigate to the folder location in your terminal and host a local server to run the program. Alternatively, click the link at the top of this README file.
+Download all files to the same location on your computer. Navigate to the folder location in your terminal and host a local server to run the program. Alternatively, click the "ATM Machine" link at the top of this README file.
 
 ## Roadmap
 
