@@ -1,0 +1,32 @@
+body {
+    background-image: url(atmBackground6.jpg);
+    background-position: center;
+    background-size: 150%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#header {
+    color: white;
+    text-shadow: 0px 0px 5px whitesmoke;
+    padding: 40px;
+    text-align: center;
+}
+
+#form {
+    color: white;
+    text-shadow: 0px 0px 5px whitesmoke;
+    padding: 5px;
+    text-align: center;    
+}
+
+#amount {
+    width: 100px;
+}
+
+.funds {
+    color: red;
+    text-shadow: 0px 0px 0px;
+}
