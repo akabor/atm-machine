@@ -1,7 +1,7 @@
 body {
     background-image: url(atmBackground6.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: auto;
     position: absolute;
     top: 50%;
     left: 50%;
